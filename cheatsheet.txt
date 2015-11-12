@@ -15,6 +15,7 @@ git push : Saves work to the server
 
 HTML
 localhost:8000 : to view html
+cmis-hsteacher/~helen2197/
 
 SFTP Commands
 sftp helen2197@cmis-hsteacher: to access the public server
