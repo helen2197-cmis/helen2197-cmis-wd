@@ -1,0 +1,31 @@
+h1{
+	font-family:"Impact";
+	font-style: italic;
+	font-size: 150%;
+	color: yellow;
+	background-color: green;
+}
+h2{	
+	font-family: "impact";
+	font-style: italic;
+	font-size: 100%;
+	color: red;
+	background-color: yellow;
+}
+header{
+	background-color: yellow;
+}
+
+main{
+	border: dotted;
+	border-color:red;
+}
+h3{
+	font-family: "Arial";
+	color: yellow;
+	background-color: blue;
+	font-size: 140%;
+}
+h4{
+
+
