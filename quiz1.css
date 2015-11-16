@@ -1,0 +1,63 @@
+h1{
+	font-family:"Impact";
+	font-style: italic;
+	font-size: 150%;
+	color: yellow;
+	background-color: green;
+	border-bottom: thick dotted #ffff00;
+}
+h2{	
+	font-family: "impact";
+	font-style: italic;
+	font-size: 90%;
+	color: blue;
+	background-color: red;
+	border-bottom: thick dotted #ffff00;
+	border-bottom-width: 15px;
+	font-weight: normal;
+
+}
+header{
+	background-color: red;
+}
+	
+h3{
+	font-family: "Arial";
+	color: yellow;
+	background-color: purple;
+	font-size: 100%;
+}
+h4{
+	font-family: "Arial";
+	color: purple;
+	background-color: yellow;
+	font-size: 80%;
+	border-top: thick dotted #800080;
+	border-top-width: medium;
+	
+}
+
+
+h5{
+	font-family: "Arial";
+	color: blue;
+	font-size: 70%;
+	 font-weight: normal;
+}
+
+main{
+	border-left: thick groove #FFA500;
+	border-right: thick ridge #FFA500;
+}
+footer{
+	font-family: "Arial";
+	color: blue;
+	font-size: 70%;
+	font-weight: normal;
+	border-left-width: 15px;
+	border-left-color: red;
+}
+	
+	
+}
+	
