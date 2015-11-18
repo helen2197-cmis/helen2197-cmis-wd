@@ -24,3 +24,7 @@ pwd: shows us what folder we are in
 put (filename): to add a file in the folder you are in
 rm: removing the file
 
+Making a folder
+mkdir (folder name): making a folder
+rmdir (folder name): deleting a folder
+
