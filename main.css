@@ -21,7 +21,7 @@ body{
 	background-color: #9999ff
 }
 
-main{
+h3{
 	font-family: Georgia;
 	background-color: purple;
 	color: green;
@@ -32,7 +32,7 @@ main{
 
 }
 
-p{
+footer{
 	font-family: "courier new";
 	background-color: black;
 	color:orange;
@@ -43,8 +43,12 @@ p{
 	font-style: oblique;
 
 }
-	
-
+h4{ 
+	font-size: 150%;
+}
+h5{
+	font-size: 120%;
+}
 
 
 
