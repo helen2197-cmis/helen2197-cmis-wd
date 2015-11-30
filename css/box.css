@@ -1,0 +1,27 @@
+thead{
+	border-color: #FF0000;
+	background-color: blue;
+	color: yellow;
+	
+}
+tbody{
+	border-color:#00FF00;
+	color: white;
+	background-color: black;
+}
+table{ 
+	padding: 10px;
+	border-style:dotted;
+	
+}
+tfoot{
+	color: gray;
+	background-color: yellow;
+	border-color:#00FFFF;
+}
+header{
+	color: green;
+	background-color: blue;
+	font-family: "georgia";
+
+}
