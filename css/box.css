@@ -21,7 +21,32 @@ tfoot{
 }
 header{
 	color: green;
-	background-color: blue;
+	margin: 2cm;
+	height: 5cm;
+	width:9cm;
 	font-family: "georgia";
+	border-style: dotted;
+	margin: auto;
 
+}
+main h2{
+	background-color: purple;
+	color: white;
+	font-weight: bold;
+	font-family: "arial black";
+}
+
+ol>li{
+	color: green;
+	background-color: yellow;
+	font-family: "arial";
+
+}
+h3~ul{
+	background-color: gray;
+}
+html{
+	background-image: url("../cat.jpg");
+	background-color: #c8a2c8;
+	
 }
