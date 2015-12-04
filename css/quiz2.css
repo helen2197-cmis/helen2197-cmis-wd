@@ -1,0 +1,15 @@
+header{
+	background-color: red;
+}
+h1{
+	border: 1px solid;
+	border-color: yellow;
+}
+nav{
+	padding-left: 4cm;
+	border: 3px solid;
+	margin: 5cm;	
+	height: 4cm;
+	width: 4cm;
+
+}
