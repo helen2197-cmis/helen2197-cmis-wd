@@ -1,4 +1,20 @@
+*{
+	outline: dotted red 1px;
+}
 header{
 	font-family: "serif";
 	background-color:
+}
+nav{
+	width: 200px;
+	float:left;
+	}
+main{
+	margin-left: 201px;
+	}
+footer{
+	clear: both;
+}
+img{
+	float: right;
 }
