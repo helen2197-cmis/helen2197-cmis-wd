@@ -1,20 +1,37 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+@import url(https://fonts.googleapis.com/css?family=Inconsolata);
+@import url(https://fonts.googleapis.com/css?family=Lora);
 *{
-	outline: dotted red 1px;
+	
+	background-color: #faba5f;
 }
 header{
-	font-family: "serif";
-	background-color:
+	font-family: "Inconsolata";
+	color:black;
+	text-decoration: underline;
 }
 nav{
 	width: 200px;
 	float:left;
+	color: blue;
 	}
 main{
 	margin-left: 201px;
+	font-family: "Raleway";
+	background-color:#d18e2f
 	}
 footer{
 	clear: both;
+	font-family: "Lora";
+	color: green;
+
 }
 img{
 	float: right;
 }
+h6{
+	float: left;
+}
+h5{
+	background-color:#c2873d;
+} 
